@@ -1,0 +1,14 @@
+5/1/23 2:11 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	       2	    3	                     16	                    17	     1	
+Remaining:       	       2	    3	                     16	                    17	     1	
+Unique:          	       2	    3	                     16	                    17	     1	
+Unique Remaining:	       2	    3	                     16	                    17	     1	
+
+
+Individual File Statistics:
+
+File Name    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+YSC Test.docx	             2	                 2	              2	                        2	          3	              3	           3	                     3	                           16	                               16	                            16	                                      16	                          17	                              17	                           17	                                     17	
